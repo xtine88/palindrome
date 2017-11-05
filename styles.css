@@ -1,17 +1,31 @@
 .container{
   margin: auto;
   width: 50%;
-  border: 3px solid #28112B;
+  border: 3px solid #420C14;
   padding: 50px;
   box-shadow: 2px 2px 2px #788475;
+  font-family: 'Rozha One', serif;
+
 
 }
 
 h1{
-  color: #28112B;
+  color: #420C14;
   text-align: center;
 }
 
 h4{
-  color: #5E5D5C;
+  color: #732C2C;
+  text-align: center;
+}
+
+
+.btn {
+  background-color: pink;
+  color: black;
+  margin: 10px;
+}
+
+form{
+  text-align: center;
 }
