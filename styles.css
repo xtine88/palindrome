@@ -1,0 +1,17 @@
+.container{
+  margin: auto;
+  width: 50%;
+  border: 3px solid #28112B;
+  padding: 50px;
+  box-shadow: 2px 2px 2px #788475;
+
+}
+
+h1{
+  color: #28112B;
+  text-align: center;
+}
+
+h4{
+  color: #5E5D5C;
+}
